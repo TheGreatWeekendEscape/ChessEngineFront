@@ -1,41 +1,62 @@
 {
-  "hash": "cbb72feb",
-  "browserHash": "28d23fb1",
+  "hash": "e2ca0a90",
+  "browserHash": "4229d5d7",
   "optimized": {
     "@angular/common": {
       "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
       "file": "@angular_common.js",
-      "fileHash": "cd6db6c8",
+      "fileHash": "9ed87384",
       "needsInterop": false
     },
     "@angular/core": {
       "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "4b82ba24",
+      "fileHash": "f03a7b4a",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "281fee24",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "99cb962f",
+      "fileHash": "4beae09b",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "8f5e64b9",
+      "fileHash": "13cc0c02",
       "needsInterop": false
+    },
+    "sockjs-client": {
+      "src": "../../../../../node_modules/sockjs-client/lib/entry.js",
+      "file": "sockjs-client.js",
+      "fileHash": "e3b12e19",
+      "needsInterop": true
+    },
+    "stompjs": {
+      "src": "../../../../../node_modules/stompjs/index.js",
+      "file": "stompjs.js",
+      "fileHash": "89c69d3a",
+      "needsInterop": true
     }
   },
   "chunks": {
-    "chunk-YALXXKLY": {
-      "file": "chunk-YALXXKLY.js"
+    "chunk-XK7WAN3C": {
+      "file": "chunk-XK7WAN3C.js"
     },
-    "chunk-CHMPECP7": {
-      "file": "chunk-CHMPECP7.js"
+    "chunk-GACKADSC": {
+      "file": "chunk-GACKADSC.js"
     },
-    "chunk-P5ZCAOD5": {
-      "file": "chunk-P5ZCAOD5.js"
+    "chunk-HARVD3PI": {
+      "file": "chunk-HARVD3PI.js"
+    },
+    "chunk-OXCW2X5T": {
+      "file": "chunk-OXCW2X5T.js"
     }
   }
 }
